@@ -1,8 +1,6 @@
 # 8 Bit Filter
 An implementation of one of the Spore effects described in GPU Pro #1. Hard one, yuck.
 
-IMAGE HERE
-
 # Algorithm
 
 It rounds up the color of each pixel based on the following formula:
