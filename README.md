@@ -13,9 +13,9 @@ I did something similar for vertex shaders in my Voxelizer repository.
 
 # Example
 
-![Animated Julia](Renders/Before.png "Before")
+![Animated Julia](Renders/Before.PNG "Before")
 
-![Animated Julia](Renders/After.png "After")
+![Animated Julia](Renders/After.PNG "After")
 
 
 
