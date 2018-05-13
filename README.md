@@ -18,7 +18,7 @@ I did something similar for vertex shaders in my Voxelizer repository.
 ![Animated Julia](Renders/After.PNG "After")
 
 # Consider buying me a coffee if you like my work (click the image)
-[![Foo](coffee.png)](https://www.buymeacoffee.com/ZcRuWpUBf)
+[![Foo](Renders/coffee.png)](https://www.buymeacoffee.com/ZcRuWpUBf)
 
 
 
